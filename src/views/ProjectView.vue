@@ -25,7 +25,7 @@ const error = ref(null);
 onMounted(async () => {
     try {
         loading.value = true;
-        const res = await fetch('https://api.github.com/users/saileshrijal/repos');
+        const res = await fetch('https://api.github.com/users/XieYY-Eric/repos');
         projects.value = await res.json();
         loading.value = false;
     } catch (ex) {

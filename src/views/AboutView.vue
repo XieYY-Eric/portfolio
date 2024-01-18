@@ -1,15 +1,12 @@
 <template>
     <div class="text-center">
-        <h2 class="text-center text-xl sm:text-2xl font-bold uppercase dark:text-white">Hi! it's Sailesh Rijal </h2>
+        <h2 class="text-center text-xl sm:text-2xl font-bold uppercase dark:text-white">你好 </h2>
         <p class="sm:text-center text-justify my-4 sm:w-4/12 mx-auto dark:text-gray-300">
-            Passionate about software development, I'm expanding my knowledge by mastering
-            .Net technology. With a keen
-            eye for detail and a commitment to excellence, I create captivating and user-friendly web applications. Let's
-            build something amazing together!</p>
-        <p class="text-center text-blue-600">#DotNetCore #WebApplication</p>
+            主要爱好于软件开发，人工智能，计算机视觉领域。
+            希望能与你共同努力发展。<br>
+            Making the world a better place.</p>
+        <p class="text-center text-blue-600">#FullStack #AI #ComputerVision</p>
     </div>
 </template>
 <script setup>
-
-
 </script>
